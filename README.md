@@ -6,7 +6,7 @@ This app lets you search for books and save all kinds off books to your list. It
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](./client/public/Screenshot%202022-04-16%20015926.png)
 
 ## Authors
 
